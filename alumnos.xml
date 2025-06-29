@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clase>
+    <alumno id="1">
+        <nombre>Pepe</nombre>    
+        <edad>23 </edad>
+        <curso> 2º DAM</curso>
+        <email>pepe@mail.com</email>
+    </alumno>
+    
+    <alumno id="2">
+        <nombre>Manolo </nombre>        
+        <edad>22</edad>
+        <curso>1º DAW </curso>
+        <email> manolo@mail.com</email>
+    </alumno>
+    
+    <alumno id="3">
+        <nombre>Jose</nombre>        
+        <edad>20 </edad>
+        <curso>1º ASIR </curso>
+        <email>jose@mail.com</email> 
+    </alumno>    
+    
+</clase>

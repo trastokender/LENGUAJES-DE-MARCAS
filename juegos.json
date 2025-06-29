@@ -1,0 +1,31 @@
+{
+    "juegos_favoritos": [
+        {
+            "titulo":"Dragon Age",
+            "genero":"RPG",
+            "anio":2009,
+            "plataformas":["PC", "Xbox 360", "PS3"]
+        },
+        {
+            "titulo":"The Witcher 3",
+            "genero":"RPG",
+            "anio":2015,
+            "plataformas":["PC", "Xbox One", "PS4", "Switch"]
+        },
+        
+        {
+            "titulo":"Dark Souls",
+            "genero":"Acción/RPG",
+            "anio":2011,
+            "plataformas":["PC", "Xbox 360", "PS3"]
+        },
+        {
+            "titulo":"Hollow Knight",
+            "genero":"Metroidvania",
+            "anio":2017,
+            "plataformas":["PC", "Switch", "PS4", "Xbox One"]
+        }
+
+    ]
+
+}

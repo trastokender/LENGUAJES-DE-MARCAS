@@ -1,0 +1,26 @@
+{
+    "libros": [
+
+        {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "año": 1949
+            "editor": "Secker & Warburg",
+            "genero": "Distopía"
+        },
+        {
+            "titulo": "El Principito",
+            "autor": "Antoine de Saint-Exupéry",
+            "año": 1943
+            "editor": "Reynal & Hitchcock",
+            "genero": "Fantasía"   
+        }
+        {
+            "titulo": "El Aleph",
+            "autor": "Jorge Luis Borges",
+            "año": 1949
+            "editor": "Emecé Editores",
+            "genero": "Ficción"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Biblioteca>
+    <libro id="1">
+        <titulo>Aprendiendo XML</titulo>
+        <autor>Pedro Pérez</autor>
+        <anio>2020</anio>      
+    </libro>    
+    
+    <libro id="2">
+        <titulo>Xml para bobos</titulo>
+        <autor>Pablo Mármol</autor>
+        <anio>2018</anio>       
+    </libro>
+    
+    <libro id ="3">
+        <titulo>xml avanzado</titulo>
+        <autor> Juan Pérez</autor>
+        <anio>2021</anio>
+        <anio>2000</anio>        
+    </libro>     
+        
+</Biblioteca>

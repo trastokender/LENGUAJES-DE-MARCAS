@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto>
+        <nombre></nombre>Juan Pérez</nombre>
+        <telefono>123456789</telefono>
+        <email> juanperez@correo.com</email>
+        <direccion>Calle Falsa 123</direccion>   
+    </contacto>    
+    
+</agenda>
