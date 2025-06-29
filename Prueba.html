@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Prueba</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+
+    </head>
+
+    <body>
+        <h1>Prueba</h1>
+        <p>Esta es una prueba de un archivo HTML.</p>
+        <button id="myButton">Haz clic aquí</button>
+        <div id="result"></div>
+
+        <script>
+            document.getElementById('myButton').addEventListener('click', function() {
+                document.getElementById('result').innerText = '¡Botón clickeado!';
+            });
+        </script>
+
+</html>
